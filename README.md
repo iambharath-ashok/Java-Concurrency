@@ -1,8 +1,4 @@
-# Java-Concurrency
-
-
-
-# Java Threads and Concurrency
+# Java-Concurrency: Java Threads and Concurrency
 
 
 ## Threads :
